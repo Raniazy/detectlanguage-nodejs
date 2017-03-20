@@ -9,6 +9,7 @@ Clone the repository in your local fs, or dowload it.
 
 ``` git clone https://github.com/Raniazy/detectlanguage-nodejs.git```
 
+```npm install``` 
 
 ## Configuration : 
 
